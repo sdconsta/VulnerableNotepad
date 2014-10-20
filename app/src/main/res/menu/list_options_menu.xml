@@ -10,6 +10,7 @@
           so that the user can paste in the data.. -->
     <item android:id="@+id/menu_paste"
           android:icon="@drawable/ic_menu_compose"
+          android:showAsAction="always"
           android:title="@string/menu_paste"
           android:alphabeticShortcut='p' />
 </menu>
